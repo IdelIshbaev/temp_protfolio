@@ -1,0 +1,16 @@
+@import url('header.css');
+@import url('mobile_header.css');
+
+a{
+	text-decoration: none;
+	color: rgba(0, 0, 0, 1);
+}
+body, html{
+	padding: 0;
+	margin:0;
+ 	font-family: "Lucida Console", Courier, monospace;
+ 	/*height: calc(100% - 29px);*/
+ 	height: 100%;
+
+}
+
